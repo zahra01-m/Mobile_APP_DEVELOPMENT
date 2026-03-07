@@ -821,4 +821,5 @@ class ResultPage extends StatelessWidget {
       ),
     );
   }
+
 }
